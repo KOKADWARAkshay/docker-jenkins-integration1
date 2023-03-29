@@ -27,11 +27,16 @@ Save and run the job Click on "Save" to save the job configuration. Click on "Bu
 Set up the pipeline Click on "Configure" for the job. Under the "Build Triggers" section, select "Build after other projects are built". Enter the name of the previous job in the "Projects to watch" section. Click on "Save" to save the pipeline configuration.
 
 ## 🔗 Links
-[![Ci/Cd with GithubAction](https://github.com/KOKADWARAkshay/workflow-github)]
 
+![buildtrend](https://user-images.githubusercontent.com/70112790/228629448-67b56c3c-d591-4b72-bdb9-df85e42273e8.jpg)
 
-[![Ci/Cd with AWS EC2 Virtual Instance using Jenking Node Js Project](https://github.com/KOKADWARAkshay/todo-akshay-app)]
+![console output](https://user-images.githubusercontent.com/70112790/228629457-ec0da050-e2d5-489f-9ce2-edf42bee74c8.jpg)
 
+![dockerimage](https://user-images.githubusercontent.com/70112790/228629464-f9806fb9-a2dd-47d8-84db-d2913bbf0146.jpg)
+
+![workspaces](https://user-images.githubusercontent.com/70112790/228629468-eb23d909-ab40-4f61-b8f9-7b869e7789fa.jpg)
+
+![1](https://user-images.githubusercontent.com/70112790/228629471-38b52abb-3035-43d3-a9b5-a009014cd999.jpg)
 
 
 
