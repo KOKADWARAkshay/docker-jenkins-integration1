@@ -4,4 +4,4 @@
 ![WhatsApp Image 2021-11-08 at 03 58 41](https://user-images.githubusercontent.com/85924533/140664196-6b7a7f4c-1a0e-4d45-a808-a1b84a539f31.jpeg)
 
 
-![myimg](https://github.com/KOKADWARAkshay/docker-jenkins-integration1/blob/c020dc42d3ec04e55f13f783506d66be6ad2ed36/buildtrend.jpg)
+![Screenshot](buildtrend.jpg)
